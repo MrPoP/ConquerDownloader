@@ -1,0 +1,9 @@
+D:\ConquerDownloader\Downloader\obj\Debug\Downloader.csprojResolveAssemblyReference.cache
+D:\ConquerDownloader\Downloader\obj\Debug\Downloader.Form1.resources
+D:\ConquerDownloader\Downloader\obj\Debug\Downloader.Properties.Resources.resources
+D:\ConquerDownloader\Downloader\obj\Debug\Downloader.csproj.GenerateResource.Cache
+D:\ConquerDownloader\Downloader\bin\Debug\conquer_v6716_p2p.exe.config
+D:\ConquerDownloader\Downloader\bin\Debug\conquer_v6716_p2p.exe
+D:\ConquerDownloader\Downloader\bin\Debug\conquer_v6716_p2p.pdb
+D:\ConquerDownloader\Downloader\obj\Debug\conquer_v6716_p2p.exe
+D:\ConquerDownloader\Downloader\obj\Debug\conquer_v6716_p2p.pdb

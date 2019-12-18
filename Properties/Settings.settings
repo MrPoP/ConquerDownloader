@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Downloader.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6716</Value>
+    </Setting>
+    <Setting Name="ServerIP" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">121.207.250.58</Value>
+    </Setting>
+    <Setting Name="Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Conquer_v6716.exe</Value>
+    </Setting>
+    <Setting Name="DownloadLbl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Download Page</Value>
+    </Setting>
+    <Setting Name="DownloadLink" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://co.99.com/downloads/client.shtml</Value>
+    </Setting>
+    <Setting Name="GameName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Conquer</Value>
+    </Setting>
+    <Setting Name="FileLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/zf/</Value>
+    </Setting>
+    <Setting Name="FtpServer" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">ftp://a:a@192.168.17.56/co.ini</Value>
+    </Setting>
+    <Setting Name="DownloaderName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">conquer_v6716_p2p.exe</Value>
+    </Setting>
+    <Setting Name="FileLink" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://conquer.download.99.com/en_zf/Conquer_v6716.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
